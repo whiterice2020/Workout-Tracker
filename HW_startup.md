@@ -3,9 +3,9 @@
 
 ## Steps:
 
-Create your server.js file.
+<!-- Create your server.js file. -->
 
-Install packages ( npm install ).
+<!-- Install packages ( npm install ). -->
 
 Add code to your Server.js file to do the following:
 - import npm packages.
