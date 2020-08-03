@@ -34,12 +34,12 @@ Add code to your Server.js file to do the following:
 
 
 <!-- Create a Routes folder and create two files: -->
--   htmlRoutes.js:
-    - Create all the routes to display pages (View)
-    - You will need html routes to display the following pages:
-        - index.html ( "/" )
-        - exercise.html ( "/exercise" )
-        - stats.html ( "/stats" )
+<!-- -   htmlRoutes.js: -->
+   <!-- - Create all the routes to display pages (View) -->
+  <!-- - You will need html routes to display the following pages: -->
+<!-- - index.html ( "/" ) -->
+<!-- - exercise.html ( "/exercise" ) -->
+<!-- - stats.html ( "/stats" ) -->
 
 -   apiRoutes.js:
     - Create all the routes to listen to the requests from the front end.
