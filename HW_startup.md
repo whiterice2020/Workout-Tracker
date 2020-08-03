@@ -16,24 +16,24 @@ Add code to your Server.js file to do the following:
 - create code to start the server and listen to requests.
 
 
-Create Model folder and add Model file (Workout.js)
+<!-- Create Model folder and add Model file (Workout.js)
 - include the following properties to the Workout Model:
     - day (type -> Date)
     - exercises (type -> Array)
 
 - Inside the "exercises" property Array, you will store each of the exercises for that workout as objects.
-- Each object inside the "exercises" property will have the following properties:
-    <!-- - type (type -> String) -->
+- Each object inside the "exercises" property will have the following properties: -->
+//    <!-- - type (type -> String) -->
     <!-- - name (type -> String) -->
     <!-- - duration (type -> Number) -->
     <!-- - weight (type -> Number) -->
     <!-- - reps (type -> Number) -->
     <!-- - sets (type -> Number) -->
     <!-- - distance (type -> Number) -->
-- Create an index.js file and import the Workout model.
+<!-- - Create an index.js file and import the Workout model. -->
 
 
-Create a Routes folder and create two files:
+<!-- Create a Routes folder and create two files: -->
 -   htmlRoutes.js:
     - Create all the routes to display pages (View)
     - You will need html routes to display the following pages:
